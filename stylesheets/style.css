@@ -722,7 +722,7 @@ nav ul.sub-menu > li:last-child > a {
     width: 100%;
 }
 
-.grid-items figure{
+.index-grid-items figure{
     height: 230px;
     overflow: hidden;
 } 
@@ -1329,10 +1329,10 @@ footer .row-content.buffer {
         width: 100%;
         text-align: center;
     }
-    .grid-items figure{
+    .index-grid-items figure{
         height: 300px;
     overflow: hidden;
-} 
+ } 
 }
 
 
