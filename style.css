@@ -716,7 +716,6 @@ nav ul.sub-menu > li:last-child > a {
 .portfolio figure img,
 .portfolio-section figure img,
 .single-portfolio figure img {
-    margin: auto;
      width:100%;
 }
 
