@@ -722,12 +722,12 @@ nav ul.sub-menu > li:last-child > a {
     width:100%;
 }
 
-.grid-items article{
+.grid-items figure{
     height: 240px;
     overflow: hidden;
 } 
 
-.index-grid-items article{
+.index-grid-items figure{
     height: auto;
 } 
 
@@ -1334,7 +1334,7 @@ footer .row-content.buffer {
         width: 100%;
         text-align: center;
     }
-    grid-items article{
+    grid-items figure{
         height: 300px;
         overflow: hidden;
     } 
