@@ -731,6 +731,10 @@ nav ul.sub-menu > li:last-child > a {
     height: auto;
 } 
 
+.index-grid-items figure img{
+    margin: 10px;
+}
+
 .portfolio .overlay,
 .portfolio-section .overlay,
 .related .overlay {
