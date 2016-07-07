@@ -1329,6 +1329,10 @@ footer .row-content.buffer {
         width: 100%;
         text-align: center;
     }
+    .grid-items figure{
+        height: 300px;
+    overflow: hidden;
+} 
 }
 
 
