@@ -715,10 +715,7 @@ nav ul.sub-menu > li:last-child > a {
 
 .portfolio figure img,
 .portfolio-section figure img,
-.single-portfolio figure img {
-     width:100%;
-}
-
+.single-portfolio figure img ,
 .portfolio .overlay,
 .portfolio-section .overlay,
 .single-portfolio .overlay{
