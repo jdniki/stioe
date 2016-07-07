@@ -714,12 +714,15 @@ nav ul.sub-menu > li:last-child > a {
 }
 
 .portfolio figure img,
-.portfolio .overlay,
 .portfolio-section figure img,
-.portfolio-section .overlay,
-.single-portfolio figure img,
-.single-portfolio .overlay {
+.single-portfolio figure img {
     margin: auto;
+}
+
+.portfolio .overlay,
+.portfolio-section .overlay,
+.single-portfolio .overlay{
+    width:100%;
 }
 
 .grid-items figure{
