@@ -722,14 +722,19 @@ nav ul.sub-menu > li:last-child > a {
     width: 100%;
 }
 
-.index-grid-items figure{
+.grid-items figure{
     height: 230px;
     overflow: hidden;
+} 
+
+.index-grid-items figure{
+    height: auto;
 } 
 
 .portfolio .overlay,
 .portfolio-section .overlay,
 .related .overlay {
+    
     position: absolute;
     top: 0;
     left: 0;
@@ -1329,10 +1334,11 @@ footer .row-content.buffer {
         width: 100%;
         text-align: center;
     }
-    .index-grid-items figure{
+    grid-items figure{
         height: 300px;
-    overflow: hidden;
- } 
+        overflow: hidden;
+    } 
+ 
 }
 
 
