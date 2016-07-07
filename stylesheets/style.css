@@ -982,7 +982,7 @@ section.greyish {
     font-size: 0.722em;
 }
 
-.timeline time {
+.timeline .datetime {
     display: block;
     width: 4.111em;
     color: #b3b3b3;
@@ -1338,7 +1338,6 @@ footer .row-content.buffer {
         height: 300px;
         overflow: hidden;
     } 
- 
 }
 
 
