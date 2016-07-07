@@ -719,11 +719,11 @@ nav ul.sub-menu > li:last-child > a {
 .portfolio-section .overlay,
 .single-portfolio figure img,
 .single-portfolio .overlay {
-    width: 100%;
+    margin: auto;
 }
 
 .grid-items figure{
-    height: 230px;
+    height: 240px;
     overflow: hidden;
 } 
 
