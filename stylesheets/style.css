@@ -928,7 +928,7 @@ figure img{
 
 section {
     background-color: inherit;
-    overflow-y:inherit; 
+    overflow-y:hidden; 
 }
 
 section.greyish {
