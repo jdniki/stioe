@@ -720,7 +720,10 @@ nav ul.sub-menu > li:last-child > a {
 .portfolio-section .overlay,
 .single-portfolio .overlay{
     width:100%;
-    height: 100%;
+
+}
+.index-grid-items figure img{
+        height: 100%;
 }
 
 .grid-items figure{
