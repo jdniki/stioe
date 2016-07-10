@@ -928,6 +928,7 @@ figure img{
 
 section {
     background-color: inherit;
+    overflow:inherit; 
 }
 
 section.greyish {
