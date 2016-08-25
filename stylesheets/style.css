@@ -719,8 +719,8 @@ nav ul.sub-menu > li:last-child > a {
 .portfolio .overlay,
 .portfolio-section .overlay,
 .single-portfolio .overlay{
-    width:100%;
-
+    /*width:100%;*/
+    margin: 10px auto;
 }
 .index-grid-items figure img{
         height: 100%;
